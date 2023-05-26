@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<!-- Jordann Osborn -->
+<head>
+<link rel="stylesheet" href="../css/specialcakesstyles.css" >
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>cake website</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body> 
+<div class="container"> 
+	
+<a href="../index.html"> <img src="../images/original_images/logo.png" alt="special cakes for all occasions"></a> <br> 
+	
+
+<div class= "floatright menu">
+<a href="../index.html" target="_self">Home</a>
+<a href="../cakesForSale.html" target="_self">Cakes for sale</a>
+<a href="../contactUs.html" target="_self">Contact Us</a>
+<a href="../About.html" target="_self">About</a>
+</div>
+
+
+<img src="../images/modified_images/bannerCakeStoreModified.jpg" alt="cakes in a shop window"><br>
+	
+<!-- TemplateBeginEditable name="products" -->
+<p>&nbsp;</p>
+<!-- TemplateEndEditable -->
+
+<footer> 2022 Special Cakes </footer>
+</div> 	
+</body>
+</html>
